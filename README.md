@@ -1,6 +1,6 @@
 # Keeper-App
 A clone of Google Keep - Made during learning React.  
-It contains front-end only.
+This contains front-end only.
 
 
 ## To use locally:
